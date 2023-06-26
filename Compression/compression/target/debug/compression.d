@@ -1,0 +1,1 @@
+C:\Users\athar\OneDrive\Documents\vsc-files\3rd\ yr\developer\ mode\rust-projects\Compression\compression\target\debug\compression.exe: C:\Users\athar\OneDrive\Documents\vsc-files\3rd\ yr\developer\ mode\rust-projects\Compression\compression\src\main.rs
